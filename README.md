@@ -76,7 +76,9 @@ Guarde estes prompts para consultar sempre que precisar revisar o tema no Notebo
 
 ### Exemplos
 <img width="1271" height="629" alt="image" src="https://github.com/user-attachments/assets/989f6f52-bdee-4425-be21-85f0bbf7ab0e" />
+
 ### Exemplos
 <img width="533" height="530" alt="image" src="https://github.com/user-attachments/assets/d8782f5d-5cc7-4b0d-b18f-1f56776f7af8" />
+
 ### Exemplos
 <img width="1268" height="565" alt="image" src="https://github.com/user-attachments/assets/0b911d70-959b-4f81-9281-b7b023bf8bb9" />
